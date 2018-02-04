@@ -27,7 +27,7 @@ communicate to the public, including the right to make available or display the 
 distribute the Work or copies thereof, 
 lend and rent the Work or copies thereof, sub-license rights in the Work or copies thereof 
 
-# Original README.txt from codeplex source archive:
+## Original README.txt from codeplex source archive:
 This is the complete source code for Tftpd32 and Tftpd64, the industry standard TFTP server.  
   
 The code has been splitted into 2 parts :   
@@ -45,6 +45,19 @@ tftpd32.sln and .vcxproj files are the project files necessary for building the 
   
 All code is released under the European Public License, which is compatible with the GPLv2.  
   
+### Copyright notice from original author:
+TFTPD32 and TFTPD64 are copyrighted 1998-2017 by Philippe Jounin (philippe@jounin.net) and released under the European Union Public License 1.1 (see either the help file or the file EUPL-EN.pdf for the full text of the license)  
   
+Official site: http://tftpd32.jounin.net  
+  
+Tftpd32 and Tftpd64 use the following copyrights or contributions  
+  - MD5 part is from RSA Data Security  
+  - IP checksum computation is from Mike Muss  
+  - DHCP lease persistance is from Nick Wagner   
+  - DHCP opts 82, 42 and 120 from Jesus Soto  
+  - DHCP header file from The Internet Software  
+    Consortium  
+  
+
 
 
