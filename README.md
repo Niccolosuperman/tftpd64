@@ -1,13 +1,16 @@
 # tftpd64
-
-## what is it?
-tftpd64 is IPv6 and IPv4 server application for these protocols: DNS, DHCP, SNTP, TFTP, and Syslog  
   
-tftpd64 is also a capable TFTP client
-
+## what is it?
+tftpd64 is an IPv6 and IPv4 server application for many protocols: DNS, DHCP, SNTP, TFTP, and Syslog  
+  
+tftpd64 is also a capable TFTP client  
+  
+## where to download?
+https://github.com/peacepenguin/tftpd64/releases  
+  
 ## where is the official source?
 This is an unofficial home for tftpd64 since the codeplex hosting site was shutdown and the original author has not yet made a new public repository for source or binary downloads of the latest versions as were found on codeplex. The entire codeplex archive bundle is still available, but unknown for how much longer.  
-
+  
 tftpd64 was/is created by:  
 Philippe Jounin   
 http://tftpd32.jounin.net/tftpd32_download.html  
