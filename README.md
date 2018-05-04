@@ -1,3 +1,16 @@
+### tftpd64 was/is created by:
+Philippe Jounin
+http://tftpd32.jounin.net/tftpd32_download.html
+
+
+
+### Outdated info, new versions and code found in above link! 
+ 
+   
+    
+     
+      
+
 # tftpd64
   
 ## what is it?
